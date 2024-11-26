@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.gvp.calc.CalculatorApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.308 s <<< FAILURE! - in com.gvp.calc.CalculatorApplicationTests
+com.gvp.calc.CalculatorApplicationTests  Time elapsed: 0.307 s  <<< ERROR!
+java.lang.IllegalArgumentException: Unresolvable class definition for class [com.gvp.calc.CalculatorApplication]
+Caused by: java.lang.UnsupportedClassVersionError: com/gvp/calc/CalculatorApplication has been compiled by a more recent version of the Java Runtime (class file version 61.0), this version of the Java Runtime only recognizes class file versions up to 55.0
+
