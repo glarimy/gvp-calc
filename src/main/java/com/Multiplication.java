@@ -1,4 +1,4 @@
-import java.util.*
+package com.gvp.calc;
 class Multipilcation
 {
     public int Multiplication(int num1,int num2)
